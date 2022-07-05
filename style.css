@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flex {
     display: flex;
     margin-bottom: 2%;
 }
@@ -64,4 +64,11 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.Half2 {
+    width: 50%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 2%;
 }
