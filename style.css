@@ -102,10 +102,13 @@ h1 {
 }
 
 .footer1 {
-        {
-        width: 100%;
-        font-size: 14px;
-        border-top: 1px solid rgba(0, 0, 0, 0.1);
-        background: #1b285e;
-    }
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0;
+    border-radius: 5px;
+
+}
+
+.White {
+    color: aliceblue;
 }
