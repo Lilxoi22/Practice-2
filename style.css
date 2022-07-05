@@ -9,3 +9,21 @@ h1 {
 .Orange-Color {
     color: orange;
 }
+
+section {
+    display: flex;
+}
+
+.Half {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.Half img {
+    width: 100%;
+
+}
+
+.Link1 {
+    text-decoration: none;
+}
