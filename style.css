@@ -26,4 +26,13 @@ section {
 
 .Link1 {
     text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+
+}
+
+.topbanner {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
 }
