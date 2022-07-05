@@ -64,6 +64,7 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin: 0%;
 }
 
 .Half2 {
@@ -89,4 +90,22 @@ h1 {
 
 #Recipe2 {
     border-left: 5px solid orange
+}
+
+.Likes {
+    display: flex;
+    box-shadow: 1px 1px 10px grey;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.footer1 {
+        {
+        width: 100%;
+        font-size: 14px;
+        border-top: 1px solid rgba(0, 0, 0, 0.1);
+        background: #1b285e;
+    }
 }
